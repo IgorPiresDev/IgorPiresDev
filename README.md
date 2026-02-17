@@ -37,5 +37,9 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 🌐 Web
-![HTML5](
+### 📫 Vamos nos conectar?
+<p align="left">
+<a href="https://www.linkedin.com/in/igor-aparecido-marque-pires/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+> *"O melhor modo de prever o futuro é inventá-lo."*
