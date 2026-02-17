@@ -29,10 +29,9 @@ Atualmente estou no 2º semestre de Ciência da Computação, mergulhando de cab
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPiresDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPiresDev&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorPiresDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorPiresDev&layout=compact&langs_count=7&theme=dracula" />
 </p>
-
 ---
 
 ### 📫 Vamos nos conectar?
