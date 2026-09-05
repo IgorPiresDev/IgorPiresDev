@@ -17,7 +17,7 @@ SYSTEM.INFO
 Subject .......: Igor Pires
 Role ..........: Software Developer / DevOps
 Location ......: São Paulo, BR
-Core.Stack ....: Python, JS, Docker, Linux
+Core.Stack ....: Python, JS, Docker, Linux, K8s
 Status ........: Building systems & coding
       </pre>
     </td>
@@ -26,17 +26,23 @@ Status ........: Building systems & coding
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=IgorPiresDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0d13&title_color=bc8cff&text_color=c9d1d9&icon_color=58a6ff" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPiresDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0d13&title_color=bc8cff&text_color=c9d1d9" height="150" />
+<h3>⚡ Tech Stack & DevOps Arsenal</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,grafana,docker,linux,py,js,java,git,bash,vscode&theme=dark" />
+</p>
 
-<br/><br/>
+<br/>
 
-<a href="https://linkedin.com/in/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<h3>📊 System Metrics & Activity</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IgorPiresDev&theme=tokyonight&hide_border=true&background=0B0D13&ring=BC8CFF&fire=58A6FF&currStreakNum=BC8CFF" alt="GitHub Streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=IgorPiresDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0d13&title_color=bc8cff&text_color=c9d1d9&icon_color=58a6ff" height="155" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IgorPiresDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0d13&title_color=bc8cff&text_color=c9d1d9" height="155" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=IgorPiresDev&bg_color=0b0d13&color=bc8cff&line=58a6ff&point=bc8cff&area=true&hide_border=true" width="95%" />
+</p>
